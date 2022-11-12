@@ -13,6 +13,7 @@ int main() {
 	    
 	    
 	}
-	
+	// very logical question in cp you just need your problem solving skills at all and basic maths .try it on codechef 
+	//github
 	return 0;
 }
