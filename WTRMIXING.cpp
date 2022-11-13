@@ -19,3 +19,4 @@ int main() {
 	}
 	return 0;
 }
+// A very good question in this contest and the first approach is to read properly the constraints and think about maths wise at all... 
